@@ -28,6 +28,7 @@ import ja from './ja.json';
 import fi from './fi.json';
 import ko from './ko.json';
 import ky from './ky.json';
+import th from './th.json';
 
 const pt = pt_pt;
 
@@ -63,4 +64,5 @@ export default {
   fi,
   ko,
   ky,
+  th,
 };

@@ -1,0 +1,54 @@
+{
+  "tooltips": {
+    "placeMarker": "คลิกเพื่อวางหมุด",
+    "placeMarkerTouch": "แตะแผนที่เพื่อวางหมุด",
+    "firstVertex": "คลิกเพื่อวางจุดแรก",
+    "continueLine": "คลิกเพื่อวาดต่อ",
+    "finishLine": "คลิกที่หมุดใดก็ได้เพื่อเสร็จสิ้น",
+    "finishPoly": "คลิกที่หมุดแรกเพื่อเสร็จสิ้น",
+    "finishRect": "คลิกเพื่อเสร็จสิ้น",
+    "startCircle": "คลิกเพื่อวางจุดศูนย์กลางวงกลม",
+    "finishCircle": "คลิกเพื่อเสร็จสิ้นวงกลม",
+    "placeCircleMarker": "คลิกเพื่อวางหมุดวงกลม",
+    "placeText": "คลิกเพื่อวางข้อความ",
+    "selectFirstLayerFor": "เลือกเลเยอร์แรกสำหรับ {action}",
+    "selectSecondLayerFor": "เลือกเลเยอร์ที่สองสำหรับ {action}"
+  },
+  "actions": {
+    "finish": "เสร็จสิ้น",
+    "cancel": "ยกเลิก",
+    "removeLastVertex": "ลบจุดสุดท้าย"
+  },
+  "buttonTitles": {
+    "drawMarkerButton": "วาดหมุด",
+    "drawPolyButton": "วาดรูปหลายเหลี่ยม",
+    "drawLineButton": "วาดเส้น",
+    "drawCircleButton": "วาดวงกลม",
+    "drawRectButton": "วาดสี่เหลี่ยม",
+    "editButton": "แก้ไขเลเยอร์",
+    "dragButton": "ลากเลเยอร์",
+    "cutButton": "ตัดเลเยอร์",
+    "deleteButton": "ลบเลเยอร์",
+    "drawCircleMarkerButton": "วาดหมุดวงกลม",
+    "snappingButton": "ดูดหมุดที่ลากให้เกาะเลเยอร์และจุดอื่น",
+    "pinningButton": "ล็อกจุดร่วมไว้ด้วยกัน",
+    "rotateButton": "หมุนเลเยอร์",
+    "drawTextButton": "วาดข้อความ",
+    "scaleButton": "ปรับขนาดเลเยอร์",
+    "autoTracingButton": "ลากเส้นอัตโนมัติ",
+    "snapGuidesButton": "แสดงเส้นช่วยดูด",
+    "unionButton": "รวมเลเยอร์",
+    "differenceButton": "ตัดออกจากเลเยอร์"
+  },
+  "measurements": {
+    "totalLength": "ความยาว",
+    "segmentLength": "ความยาวส่วน",
+    "area": "พื้นที่",
+    "radius": "รัศมี",
+    "perimeter": "เส้นรอบวง",
+    "height": "ความสูง",
+    "width": "ความกว้าง",
+    "coordinates": "ตำแหน่ง",
+    "coordinatesMarker": "ตำแหน่งหมุด"
+  }
+}
